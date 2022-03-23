@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj": {}
+    "C:\\PDD\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj": {}
   },
   "projects": {
-    "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj": {
+    "C:\\PDD\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
+        "projectUniqueName": "C:\\PDD\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
         "projectName": "ParqueProcesoDesarrollo.Web",
-        "projectPath": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
-        "packagesPath": "C:\\Users\\camar\\.nuget\\packages\\",
-        "outputPath": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\obj\\",
+        "projectPath": "C:\\PDD\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
+        "packagesPath": "C:\\Users\\Diego Garzón\\.nuget\\packages\\",
+        "outputPath": "C:\\PDD\\ParqueProcesoDesarrollo.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\camar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diego Garzón\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
