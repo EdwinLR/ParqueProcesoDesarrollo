@@ -8756,19 +8756,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\camar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ParqueProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
+      "projectUniqueName": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
       "projectName": "ParqueProcesoDesarrollo.Web",
-      "projectPath": "F:\\ParqueProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "F:\\ParqueProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\obj\\",
+      "projectPath": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\ParqueProcesoDesarrollo.Web.csproj",
+      "packagesPath": "C:\\Users\\camar\\.nuget\\packages\\",
+      "outputPath": "C:\\ProcesoDesarrollo\\ParqueProcesoDesarrollo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\camar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8831,7 +8831,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
